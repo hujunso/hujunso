@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hujunsomg
 - 👀 I’m interested in Badminton.
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on guofangkeda
+- 🌱 I’m currently learning IT.
+- 💞️ I’m looking to collaborate on guofangkeda.
 - 📫 How to reach me …Send an email to 2052552601@qq.com
 - 
 <!---
